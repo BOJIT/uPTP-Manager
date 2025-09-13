@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "uptp-manager",
-        "width": 800,
-        "height": 600
+        "title": "µPTP Manager",
+        "width": 1000,
+        "height": 800
       }
     ],
     "security": {
