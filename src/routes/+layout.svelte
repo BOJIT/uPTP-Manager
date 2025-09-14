@@ -38,14 +38,14 @@
     <UI.NavBar
         title="µPTP Manager"
         {logo}
-        logoLink="https://github.com/BOJIT/uPTP"
+        logoLink="https://github.com/BOJIT/uPTP-Manager"
         themeOverride="dark"
         items={[
             {
                 type: 'button',
                 icon: LogoGithub as Icon,
                 label: 'Source Code',
-                link: 'https://github.com/BOJIT/uPTP',
+                link: 'https://github.com/BOJIT/uPTP-Manager',
                 visibility: 'desktop'
             },
             {
