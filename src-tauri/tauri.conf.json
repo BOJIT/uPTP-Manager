@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "uptp-manager",
+  "productName": "µPTP Manager",
   "version": "0.1.0",
   "identifier": "com.bojit.uptp-manager",
   "build": {
