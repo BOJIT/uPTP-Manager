@@ -63,7 +63,5 @@
             }
         ]}
     />
-    <UI.Content>
-        {@render children()}
-    </UI.Content>
+    {@render children()}
 </App>
